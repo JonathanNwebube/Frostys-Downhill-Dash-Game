@@ -23,8 +23,8 @@ Frosty’s Downhill Dash is a fast-paced, Christmas-themed arcade game where you
 |-----|--------|
 | ←   | Move left |
 | →   | Move right |
-| SPACE / ENTER | Start game / Continue |
-| ESC | Quit |
+| Mouse Click | Start game |
+| P | Pause/Resume |
 
 ---
 
