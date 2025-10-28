@@ -28,6 +28,18 @@ Frosty’s Downhill Dash is a fast-paced, Christmas-themed arcade game where you
 
 ---
 
+## 📸 Screenshots
+
+### Title Screen
+![Title Screen](screenshots/titlepage.png)
+
+### Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+### Game Over
+![Game Over](screenshots/gameover.png)
+
+---
 ## 📦 Requirements
 
 Before running the game, ensure you have:
@@ -40,6 +52,8 @@ Install pygame using:
 ```bash
 pip install pygame
 ```
+---
+
 ## ▶️ How to Run
 
 Open a terminal in the project folder and run:
@@ -50,6 +64,8 @@ or
 ```
 python3 game.py
 ```
+---
+
 ## ✅ Tested On
 - Windows 10 / 11
 - Python 3.10+
