@@ -50,3 +50,11 @@ or
 ```
 python3 game.py
 ```
+## ✅ Tested On
+- Windows 10 / 11
+- Python 3.10+
+- Pygame 2.x
+  
+## 👨‍💻 Author
+Made by **Jonathan Nwebube**  
+GitHub Profile: https://github.com/JonathanNwebube
