@@ -31,13 +31,13 @@ Frosty’s Downhill Dash is a fast-paced, Christmas-themed arcade game where you
 ## 📸 Screenshots
 
 ### Title Screen
-![Title Screen](screenshots/titlepage.png)
+![Title Screen](screenshots/titlepage.jpg)
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/gameplay.jpg)
 
 ### Game Over
-![Game Over](screenshots/gameover.png)
+![Game Over](screenshots/gameover.jpg)
 
 ---
 ## 📦 Requirements
